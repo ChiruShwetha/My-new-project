@@ -22,6 +22,8 @@ public class ButtonComponent {
     String icon;
 
     @ValueMapValue
+    String Hi;
+    @ValueMapValue
     String id;
 
     public String getText() {
